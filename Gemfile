@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+
+# The devise gem will be used for authentication and user accounts.
+gem 'devise'
 gem 'bootstrap-sass', '~> 3.3.5'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'
